@@ -1,0 +1,115 @@
+.main{
+background-image: url(https://images.pexels.com/photos/17086006/pexels-photo-17086006/free-photo-of-girls-making-soap-bubbles.jpeg?auto=compress&cs=tinysrgb&w=600);
+background-size: cover;
+background-repeat: no-repeat;
+width:100%;
+
+}
+.name{
+    color:rgb(211, 13, 128);
+    font-size: 60px;
+    position: absolute;
+    top: -10px;
+    left:51px;
+}
+.location{
+    color:white;
+    font-size: 15px;
+    position: absolute;
+    top: -30px;
+    left:30px;
+}
+.Date{
+    color:white;
+    font-size: 15px;
+    position: absolute;
+    top: -30px;
+    left:30px;
+}
+.bar ul{
+    list-style-type: none;
+    display: inline-block;
+    background-color: white;
+    width:900px;
+    height:50px;
+    font-size: 20px;
+    position:relative;
+    top:-430px;
+    left:300px;
+    z-index:2;
+    text-align: center;
+    padding:5px;
+    border-radius: 20px;
+    text-shadow: 3px 20px 20px 20px  black;
+   }
+.sub{
+    color:rgb(211, 13, 128);
+    font-size: 25px;
+    position: relative;
+    left:300px;
+    top:130px;
+    font-weight: 700px;
+}
+.heading{
+    color:rgb(236, 225, 232);
+    font-size:40px;
+    position: relative;
+    left:300px;
+    top:100px;
+    font-weight: 700px;
+   
+}
+.para{
+    color:rgb(211, 13, 128);
+    font-size:25px;
+    position: relative;
+    left:300px;
+    top:100px;
+    font-weight: 700px;
+}
+.border{
+    border-radius: 10px 100px /120px 100px;
+    color:(243, 15, 156);
+    background-color:rgb(211, 13, 128) ;
+    width:100px;
+    height:180px;
+    position: relative;
+    left:350px;
+    top:100px;
+    transform:rotate(90deg);
+    z-index: 3;
+    box-shadow: 3px 0px 2px 5px rgb(201, 135, 179);
+}
+li{
+    style-type:none;
+    color:black;
+    display:inline-block;
+    padding:20px;
+    float:left;
+    
+}
+.para1{
+    position: relative;
+    left:370px;
+    top:200px;
+    z-index: 4;
+    font-size: 12px;
+    color:white;
+}
+.location1{
+    position:absolute;
+    left:900px;
+    top:30px;
+}
+.date1{
+    position:absolute;
+    left:1200px;
+    top:30px;
+}
+ul i{
+    position: relative;
+    top:10px;
+    padding:12px;
+}
+
+
